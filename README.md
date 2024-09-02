@@ -1,0 +1,2 @@
+# stockMarketTraining
+ stockMarketTraining RAG
