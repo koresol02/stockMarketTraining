@@ -17,8 +17,8 @@ def get_answer(prompt):
     retrieveAndGenerateConfiguration={
         'type': 'KNOWLEDGE_BASE',
         'knowledgeBaseConfiguration': {
-            'knowledgeBaseId': 'FSRPOHRDU3',
-            'modelArn': 'arn:aws:bedrock:us-west-2::foundation-model/meta.llama3-1-8b-instruct-v1:0'
+            'knowledgeBaseId': 'To be changed',
+            'modelArn': 'To be changed'
                 }
             })
             
